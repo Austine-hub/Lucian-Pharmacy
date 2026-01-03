@@ -16,7 +16,7 @@ import styles from "./page.module.css";
 import WhyChooseUs from "@/components/whyChooseUs/WhyChooseUs";
 
 export const metadata: Metadata = {
-  title: "JOYLAND MEDICAL CLINIC",
+  title: "LUCIAN MEDICAL CLINIC",
   description: "Modern Pharmacy solutions — caring beyond prescriptions.",
 };
 

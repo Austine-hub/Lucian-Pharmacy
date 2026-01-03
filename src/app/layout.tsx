@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 
 // Metadata (server-only)
 export const metadata: Metadata = {
-  title: "JOYLAND CHEMIST AND  Clinic",
+  title: "LUCIAN CHEMIST AND  Clinic",
   description: "Your Health our concern.",
 };
 
